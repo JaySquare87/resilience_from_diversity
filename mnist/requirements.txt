@@ -1,0 +1,5 @@
+torchattacks==2.14.2
+tqdm==4.56.0
+torchvision==0.8.2
+torch==1.7.1
+numpy==1.20.2
