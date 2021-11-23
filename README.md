@@ -43,8 +43,9 @@ The following is the list of attacks you can test against:
 
 Pretrained models are included in the folders of mnist and cifar-10.
 
-'''bash
-.
+Since GitHub has a limit of the size of uploaded files, you can download the pretrained models through this link: https://drive.google.com/drive/folders/1Dkupi4bObIKofjKZOwOG0owsBFwfwo_5?usp=sharing
+
+```
 ├── LICENSE
 ├── README.md
 ├── __init__.py
@@ -66,7 +67,7 @@ Pretrained models are included in the folders of mnist and cifar-10.
 │   ├── lenet5.py
 │   └── resnet.py
 └── requirements.txt
-'''
+```
 
 
 ## Contributing
